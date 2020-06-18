@@ -31,15 +31,19 @@ skin.path.backup=_no_skin
 ```
 
 In emulator: settings > Settings > Advanced:
+```
 OpenGL ES: Desktop native OpenGL
 OpenGL ES API: Renderer maximum
+```
 
-After enable SKIA:
+### After enable SKIA:
 https://developer.android.com/studio/run/emulator-acceleration#skia-emulator
 
 
 ## How to enable Google Play in custom emulator:
+```
 PlayStore.enabled=true
 image.sysdir.1=system-images\android-29\google_apis_playstore\x86\
 tag.display=Google Play
 tag.id=google_apis_playstore
+```
