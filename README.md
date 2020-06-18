@@ -4,6 +4,7 @@ https://developer.android.com/studio/releases/emulator
 ## Enable virtualization: 
 https://developer.android.com/studio/run/emulator-acceleration#accel-vm
 
+## Disable unused HW functions and enable HW GPU rendering
 ~/.android/avd/Nexus_5_API_29.avd/
 
 edit `config.ini`
