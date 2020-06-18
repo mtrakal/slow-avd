@@ -22,3 +22,10 @@ skin.dynamic=no
 skin.path=_no_skin
 skin.path.backup=_no_skin
 ```
+
+In emulator: settings > Settings > Advanced:
+OpenGL ES: Desktop native OpenGL
+OpenGL ES API: Renderer maximum
+
+After enable SKIA:
+https://developer.android.com/studio/run/emulator-acceleration#skia-emulator
